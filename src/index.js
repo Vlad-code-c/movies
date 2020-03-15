@@ -46,7 +46,7 @@ class MovieItemCard extends React.Component {
     } = this.props;
     return (
       <div class="card">
-        
+        s
         
         
         {
