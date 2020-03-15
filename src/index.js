@@ -17,7 +17,10 @@ function Star(props) {
     );
   }
 
-  return stars;
+  return (
+    <div>
+      {stars}
+    </div>);
 }
 
 
@@ -46,8 +49,6 @@ class MovieItemCard extends React.Component {
     } = this.props;
     return (
       <div class="card">
-        s
-        
         
         {
         this.state.show 
