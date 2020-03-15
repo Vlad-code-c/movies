@@ -4,6 +4,8 @@ import "./index.css";
 import data from "./movies";
 
 const movie = data.movies;
+var watch = [];
+
 
 function Star(props) {
   var stars = [];
@@ -30,7 +32,8 @@ class MovieItemCard extends React.Component {
 
     this.state = {
       show: false,
-      like: false
+      like: false,
+      willWatch: false
     };
   }
   toggleShow = () => {
@@ -38,15 +41,41 @@ class MovieItemCard extends React.Component {
       show: !this.state.show
     });
   };
+  
   toggleLike = () => {
     this.setState({
       like: !this.state.like
     });
   };
+
+  toggleWatch = () => {
+    if(!this.state.willWatch){
+      watch.push(
+        <div>
+          <p>{data.title}</p>
+          <p>{data.vote_average}</p>
+        </div>
+      );
+      // console.log(watch[0]._self.props.data.title);
+    } else{
+      console.log("else");
+    }
+
+    this.setState({
+      willWatch: !this.state.willWatch
+    });
+  }
+
+
   render() {
     const {
       data: { title, vote_average, image, overview }
     } = this.props;
+
+
+    // console.log({watch});
+
+    console.log("executed");
     return (
       <div class="card">
         
@@ -65,20 +94,28 @@ class MovieItemCard extends React.Component {
             <Star num={vote_average} /> <br />
           </center>
           <div class="buttons-container">
-            <button
+            <div className="btn-group ">
+              <button
+                type="button"
+                className="btn btn-primary"
+                onClick={this.toggleShow}
+              >
+                {this.state.show ? "Hide" : "Show"}
+              </button>
+              <button
               type="button"
-              class="btn btn-primary"
-              onClick={this.toggleShow}
-            >
-              {this.state.show ? "Hide" : "Show"}
-            </button>
-
-            <button
-              className={this.state.like ? "btn btn-danger" : "btn btn-success"}
-              onClick={this.toggleLike}
-            >
-              {this.state.like ? "Unlike" : "Like"}
-            </button>
+              className={this.state.willWatch ? "btn btn-warning watch" : "btn btn-warning"}
+              onClick={this.toggleWatch}
+              >
+                {this.state.willWatch ? "Unwatch" : "Watch"}
+              </button >
+              <button
+                className={this.state.like ? "btn btn-danger" : "btn btn-success"}
+                onClick={this.toggleLike}
+              >
+                {this.state.like ? "Unlike" : "Like"}
+              </button>
+            </div>
           </div>
           
         </div>
@@ -101,11 +138,34 @@ function Cards(){
 }
 
 
+
 function App() {
+  var w = [];
+  for(var i = 0; i < watch.length; i++){
+    w.push(
+      <li>watch[i]._self.props.data.title</li>
+    );
+  }
+
+
   return (
-    <div className="parentCard">
-      <Cards />
-    </div>);
+    <div className="parent-all">
+      <div className="parentCard">
+        <Cards />
+      </div>
+      <div className="willWatch">
+        <ul className="list-group">
+          <li className="list-group-item active">Will Watch</li>
+            {w}
+        </ul>
+        
+      </div>
+    </div>
+    );
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
+
+//TODO:
+//Add films to "Will Watch" 
+//{78, 51, 143}

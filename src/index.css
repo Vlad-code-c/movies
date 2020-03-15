@@ -19,9 +19,23 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  width: 60%;
+  margin-left: 5%;
 }
 
 .card-text{
   height: 310px;
 }
 
+.parent-all{
+  display: flex;
+}
+
+.willWatch{
+  display: flex;
+  justify-content: center;
+}
+
+.list-group-item {
+  width: 200px;
+}
