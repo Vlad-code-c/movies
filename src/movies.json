@@ -1,0 +1,509 @@
+  {
+    "movies": [
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      },
+      {
+        "title": "Spider Man",
+        "vote_average": 4,
+        "image": "http://1024x.net/wallpapers/75t/The_Amazing_Spider-Man.jpg",
+        "overview": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+      },
+      {
+        "title": "Тетрадь смерти",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/1535.jpg?1578506652",
+        "overview": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет."
+      },
+      {
+        "title": "Mister Robot",
+        "vote_average": 5,
+        "image": "https://wallpapershome.ru/images/pages/pic_v/18947.jpg",
+        "overview": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression."
+      },
+      {
+        "title": "Ускоренный мир",
+        "vote_average": 3,
+        "image": "https://dere.shikimori.one/system/animes/original/11759.jpg?1578294613",
+        "overview": "Юноша по имени Харуюки Арита чувствует себя на дне школьного общества. Ему стыдно за свою жалкую жизнь, и поэтому он много времени проводит в виртуальных играх. Но всё меняется, когда Черноснежка, самая популярная девушка в школе, показывает ему таинственную программу виртуальной реальности, ставшую окном в новый мир..."
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "vote_average": 5,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Ftokyo_ghoul_ken_kaneki_5k-1080x1920.jpg&f=1&nofb=1",
+        "overview": "Tokyo Ghoul is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014."
+      },
+      {
+        "title": "Город, в котором меня нет",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/31043.jpg?1578493594",
+        "overview": "Жизнь мангаки нелегка. Тяжёлый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки."
+      },
+      {
+        "title": "Смертельный парад",
+        "vote_average": 4,
+        "image": "https://desu.shikimori.one/system/animes/original/28223.jpg?1578495411",
+        "overview": "Добро пожаловать в бар «Квиндеким». Кажется, что единственным работником этого загадочного заведения является бармен. Он встречает посетителей и объясняет правила: с этой минуты гости вынуждены вступить в смертельную схватку друг с другом, и игра, выбранная в случайном порядке."
+      },
+      {
+        "title": "Необъятный океан",
+        "vote_average": 4,
+        "image": "https://nyaa.shikimori.one/system/animes/original/37105.jpg?1574893704",
+        "overview": "У Иори Китахары начинается новая жизнь после поступления в престижный колледж в приморском городке Идзу-Сити. Парень снимает комнату у семьи Котэгава, владеющей магазином снаряжения для дайвинга «Grand Blue». Но вся эта тема Иори не нравится: он до ужаса боится воды и предпочитает с морским делом не связываться."
+      },
+      {
+        "title": "Корона грешника",
+        "vote_average": 3,
+        "image": "https://desu.shikimori.one/system/animes/original/10793.jpg?1577866812",
+        "overview": "В Токио 2039 года, через десятилетие после охватившего страну вируса, прозванного позже «Апокалипсис», всё находится под контролем мультинациональной организации GHQ, проводящей опыты в области генной инженерии. Сю Ома, с людьми не особо ладит, хотя мечтает завести друзей и перестать быть таким неудачником."
+      },
+      {
+        "title": "Твоё имя",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/32281.jpg?1578492781",
+        "overview": "Мицуха Миямидзу — обычная девушка, уставшая от жизни в провинции. Её отец, мэр города, ведёт избирательную кампанию, а в семейном синтоистском храме ей приходится прилюдно исполнять древние ритуалы. И она мечтает перебраться из тесного провинциального мирка в большой город."
+      },
+      {
+        "title": "Форма голоса",
+        "vote_average": 5,
+        "image": "https://kawai.shikimori.one/system/animes/original/28851.jpg?1578495038",
+        "overview": "Подобно миру взрослых, мир детей не терпит различий, выделяющих кого-то на фоне других, коих принято считать «нормальными». Этот мир жесток, поскольку его обитатели, в отличие от обитателей мира взрослых, еще не успели научиться скрывать мерзкие мысли за напускной улыбкой. Многие вещи им непонятны, более того — неведомы."
+      },
+      {
+        "title": "SAW",
+        "vote_average": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.25zLorDN1_L-Z9izTLdTUgAAAA%26pid%3DApi&f=1",
+        "overview": "Saw is an American horror franchise created by James Wan and Leigh Whannell. It consists of eight feature films and additional media. In 2003, Wan and Whannell made a short film to help pitch a potential feature film concept."
+      }
+    ]
+  }
+  
