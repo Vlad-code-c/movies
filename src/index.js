@@ -105,7 +105,7 @@ class MovieItemCard extends React.Component {
               </button>
               <button
               type="button"
-              className={this.state.willWatch ? "btn btn-warning watch" : "btn btn-warning"}
+              className={this.state.willWatch ? "btn btn-danger watch" : "btn btn-warning"}
               onClick={this.toggleWatch}
               >
                 {this.state.willWatch ? "Unwatch" : "Watch"}
