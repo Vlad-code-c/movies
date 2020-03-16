@@ -20,7 +20,8 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   width: 60%;
-  margin-left: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 
 .card-text{

@@ -26,6 +26,7 @@ function Star(props) {
 }
 
 
+
 class MovieItemCard extends React.Component {
   constructor() {
     super();
@@ -49,17 +50,20 @@ class MovieItemCard extends React.Component {
   };
 
   toggleWatch = () => {
+    const t = this.props.data.title;
+    const vote = this.props.data.vote_average;
     if(!this.state.willWatch){
-      watch.push(
-        <div>
-          <p>{data.title}</p>
-          <p>{data.vote_average}</p>
-        </div>
-      );
-      // console.log(watch[0]._self.props.data.title);
+      
+      watch.push({t, vote});  
+      
     } else{
-      console.log("else");
+      for(var i = 0; i < watch.length; i++){
+        if(t === watch[i].t)
+        watch.splice(i, 1);
+      }
     }
+    
+    rend();
 
     this.setState({
       willWatch: !this.state.willWatch
@@ -73,9 +77,6 @@ class MovieItemCard extends React.Component {
     } = this.props;
 
 
-    // console.log({watch});
-
-    console.log("executed");
     return (
       <div class="card">
         
@@ -124,6 +125,7 @@ class MovieItemCard extends React.Component {
   }
 }
 
+
 function Cards(){
   var movies = [];
   for (var i = 0; i < movie.length; i++) {
@@ -143,9 +145,10 @@ function App() {
   var w = [];
   for(var i = 0; i < watch.length; i++){
     w.push(
-      <li>watch[i]._self.props.data.title</li>
+      <li className="list-group-item">{watch[i].t}</li>
     );
   }
+
 
 
   return (
@@ -153,19 +156,19 @@ function App() {
       <div className="parentCard">
         <Cards />
       </div>
-      <div className="willWatch">
+      <nav className="willWatch">
         <ul className="list-group">
           <li className="list-group-item active">Will Watch</li>
             {w}
         </ul>
         
-      </div>
+      </nav>
     </div>
     );
 }
 
-ReactDOM.render(<App />, document.getElementById("root"));
+function rend(){
+  ReactDOM.render(<App />, document.getElementById("root"));
+}
+rend();
 
-//TODO:
-//Add films to "Will Watch" 
-//{78, 51, 143}
